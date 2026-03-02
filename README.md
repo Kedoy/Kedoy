@@ -33,8 +33,3 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/avekedoy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=yandex&logoColor=white)](mailto:avekedoy@yandex.ru)
-
----
-
-### Статистика
-![Kedoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kedoy&show_icons=true&theme=transparent)
