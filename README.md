@@ -1,4 +1,5 @@
-## Hi there 👋
+## Привет, я Александр!
+Заинтересован в создании решений для бизнеса и автоматизации в сфере информационных технологий. 
 
 <!--
 **Kedoy/Kedoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
