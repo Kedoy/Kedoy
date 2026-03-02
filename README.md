@@ -22,10 +22,10 @@
 
 ### Витрина проектов
 
+* **[Buyballbot](https://github.com/Kedoy/buyballbot)** — Продажа билетов через Telegram WebApp с кастомной админ-панелью.
+* **Iriska Studio** — Fullstack сайт-визитка с настроенным CI/CD, Nginx и SSL в Docker-контейнерах. 
+* **[Ks Financial Assistant](https://github.com/Kedoy/Ks_Financial-App)** — (Курсовая) Экосистема учета финансов с аналитикой и автоматическим чтением банковских SMS.
 * **Автоучет логистика DNS** — Автоматизация учета нарядов: парсер e-mail (Python) + ТСД сканер штрих-кодов (Kotlin).
-* **Iriska Studio** — Fullstack сайт-визитка с настроенным CI/CD, Nginx и SSL в Docker-контейнерах.
-* **Ks Financial Assistant** — (Курсовая) Экосистема учета финансов с аналитикой и автоматическим чтением банковских SMS.
-* **Buyballbot** — Продажа билетов через Telegram WebApp с кастомной админ-панелью.
 
 ---
 
