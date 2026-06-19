@@ -22,10 +22,7 @@
 
 ### Витрина проектов
 
-* **[Buyballbot](https://github.com/Kedoy/buyballbot)** — Продажа билетов через Telegram WebApp с кастомной админ-панелью.
-* **[Iriska Color Studio](https://iriskacolor.ru)** — Fullstack сайт-визитка с настроенным CI/CD, Nginx и SSL в Docker-контейнерах. 
-* **Автоучет логистика DNS** — Автоматизация учета нарядов: парсер e-mail (Python) + ТСД сканер штрих-кодов (Kotlin).
-
+coming soon
 ---
 
 ### Связь со мной
