@@ -24,7 +24,8 @@
 
 ### Витрина проектов
 
-coming soon
+[![ТГ-бот для продажи билетов на мероприятия](https://github.com/Kedoy/buyballbot)
+[![Сервис анализа и прогнозирования личных финансов](https://github.com/Kedoy/my-financial-helper)
 ---
 
 ### Связь со мной
